@@ -1,0 +1,25 @@
+{
+  "name": "qr-code-service",
+  "version": "1.0.0",
+  "description": "For Solutions team",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pucardotorg/qr-code-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pucardotorg/qr-code-service/issues"
+  },
+  "homepage": "https://github.com/pucardotorg/qr-code-service#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "qrcode": "^1.5.3"
+  }
+}
